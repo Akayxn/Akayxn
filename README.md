@@ -1,11 +1,15 @@
-- 👋 Hi, I’m GamingClaus
-- 👀 I’m interested in Gaming Obviously
-- 🌱 I’m currently trying to learn some coding.
-- 💞️ I’m looking to collaborate on a discord bot.
-- 📫 How to reach me?
-- You can reach me thru discord.
 
-<!---
-GamingClaus/GamingClaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gamingclaus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gamingclaus&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamingclaus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gamingclaus&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gamingclaus&icon=5&color=1)](https://visitcount.itsvg.in)
+
