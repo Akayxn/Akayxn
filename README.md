@@ -3,8 +3,6 @@
 
 ## Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/)
 
-### Glad to see you here! 
-
 Having just graduated high school, I'm passionate about solving problems and creating new things. That's why I'm starting to learn programming with Java through self-study. I'm excited to build my skills and connect with other developers!
 
 <img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/thumbnail/programming-simpsons-press-any-key-uwovchh4v19ky2zy.gif"/>
