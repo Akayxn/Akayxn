@@ -14,7 +14,7 @@ Having just graduated high school, I'm passionate about solving problems and cre
 - 🛠 &nbsp; I’m currently learning Java and many things related it as i just started as a developer.
 - 🚀 &nbsp; I’m currently aming for Full-Stack Developer.
 - 📫 &nbsp; How to reach me: officialgamingclaus@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](Currently I dont have one😢)
+- 📝 &nbsp; Currently I dont have a Resume😢
 
 
 ### Skill Set:
