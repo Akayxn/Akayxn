@@ -1,9 +1,6 @@
-
-
-# 💻 Currently Learning:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=gamingclaus&icon=5&color=1)](https://visitcount.itsvg.in)
-
+<div style="text-align: center;">  <a href="https://i.ibb.co/vhh6NQC/downtempo-chillout-minimalist-desktop-wallpaper-free-photo.jpg" target="_blank">
+    <img src="https://i.ibb.co/vhh6NQC/downtempo-chillout-minimalist-desktop-wallpaper-free-photo.jpg" alt="Downtempo Chillout Minimalist Desktop Wallpaper" title="Click to view full size">
+  </a>
+  
+  <p>Hey, I'm Yujan! I'm passionate about development and I'm currently diving deep into the world of Java programming...</p>
+</div>
