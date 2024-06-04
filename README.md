@@ -9,7 +9,7 @@
 
 Having just graduated high school, I'm passionate about solving problems and creating new things. That's why I'm starting to learn programming with Java through self-study. I'm excited to build my skills and connect with other developers!
 
-<img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"/>
+<img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/thumbnail/programming-simpsons-press-any-key-uwovchh4v19ky2zy.gif"/>
 
 ### Personal Stuffs:
 
