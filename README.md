@@ -1,7 +1,5 @@
 
 <img align="center"  width="500" img src="https://i.ibb.co/vhh6NQC/downtempo-chillout-minimalist-desktop-wallpaper-free-photo.jpg" alt="Downtempo Chillout Minimalist Desktop Wallpaper" >
-</a>
-</div>
 
 ## Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/)
 
@@ -26,8 +24,5 @@ Having just graduated high school, I'm passionate about solving problems and cre
 
 
 
-<div align="center">
 
-
-</div>
 
