@@ -19,7 +19,7 @@ Having just graduated high school, I'm passionate about solving problems and cre
 
 ### Skill Set:
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java"></code>
 </code>
 
 
