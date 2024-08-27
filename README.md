@@ -1,6 +1,7 @@
 ## Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/)
 
 <img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/thumbnail/programming-simpsons-press-any-key-uwovchh4v19ky2zy.gif"/>
+
 ### Student & Developer:
 * 🗺️  Based in Kathmandu, Nepal
 * 🚀  On a journey to become a Full-Stack Developer
