@@ -1,4 +1,4 @@
-<style> image { display: inline-block; } </style>
+<style> img { display: inline-block; } </style>
 
 ## Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/)
 
