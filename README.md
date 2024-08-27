@@ -2,11 +2,10 @@
 
 
 ### Student & Developer:
-
+<img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/thumbnail/programming-simpsons-press-any-key-uwovchh4v19ky2zy.gif"/>
 * 🗺️  Based in Kathmandu, Nepal
 * 🚀  On a journey to become a Full-Stack Developer
 * 🖥️  Check out my portfolio at [gamingclaus.com](none)
-<img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/thumbnail/programming-simpsons-press-any-key-uwovchh4v19ky2zy.gif"/>
 * 📧  Reach me at [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com)
 * 🤝  Open to collaborating on exciting projects
 
