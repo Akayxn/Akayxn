@@ -1,4 +1,4 @@
-<h1> Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/)   </h1> 
+## Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/) 
 
 <h2>Student & Developer</h2>
 
