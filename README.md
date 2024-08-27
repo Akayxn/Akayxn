@@ -1,5 +1,4 @@
 
-<img align="center"  width="500" img src="https://i.ibb.co/vhh6NQC/downtempo-chillout-minimalist-desktop-wallpaper-free-photo.jpg" alt="Downtempo Chillout Minimalist Desktop Wallpaper" >
 
 ## Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/)
 
