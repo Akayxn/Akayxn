@@ -1,6 +1,6 @@
-Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/) 
+## Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/) 
 
-Student & Developer
+<h2 align="left">Student & Developer</h2>
 ------------------------------
 
 * 🗺️  Based in Kathmandu, Nepal
@@ -11,7 +11,7 @@ Student & Developer
 
 
 
-<h1 align="left">Skill Inventory</h1>
+<h3 align="left">Skill Inventory</h3>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -21,7 +21,7 @@ Student & Developer
 </div>
 
 
-<h1 align="left">Socials</h1>
+<h3 align="left">Socials</h3>
 
 <div align="left">
 
