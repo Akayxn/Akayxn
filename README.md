@@ -1,22 +1,4 @@
 
-
-
-
-<img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/thumbnail/programming-simpsons-press-any-key-uwovchh4v19ky2zy.gif"/>
-
-### Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently learning Html,Css & JavaScript.
-- 🚀 &nbsp; I’m currently aiming for Full-Stack Developer.
--  &nbsp; How to reach me: officialgamingclaus@gmail.com.
-- 📝 &nbsp; Currently I dont have a Resume😢
-
-
-### Skill Set:
-
-<p align="left">
-
-
 ## Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/)
 =======================================================================================================================================
 
@@ -56,5 +38,7 @@ Student & Developer
   <a href="mailto:officialgamingclaus.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
- 
 </div>
+
+<img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/thumbnail/programming-simpsons-press-any-key-uwovchh4v19ky2zy.gif"/>
+
