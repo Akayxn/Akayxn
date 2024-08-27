@@ -9,6 +9,8 @@
 * 📧  Reach me at [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com)
 * 🤝  Open to collaborating on exciting projects
 
+<img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/thumbnail/programming-simpsons-press-any-key-uwovchh4v19ky2zy.gif"/>
+
 
 ### Skills
   <p> 
