@@ -1,6 +1,7 @@
 
-### Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/)
-
+ Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/) 
+ ===================================================================
+##
 Student & Developer
 ------------------------------
 
@@ -10,11 +11,11 @@ Student & Developer
 * 📧  Reach me at [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com)
 * 🤝  Open to collaborating on exciting projects
 
-###
+##
 
 <h1 align="left">Skill Inventory</h1>
 
-###
+##
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -23,11 +24,11 @@ Student & Developer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/> </p>
 </div>
 
-###
+##
 
 <h1 align="left">Socials</h1>
 
-###
+##
 
 <div align="left">
 
@@ -38,4 +39,4 @@ Student & Developer
     <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
+##
