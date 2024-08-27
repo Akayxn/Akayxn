@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Yujan Bajagain!](https://github.com/GamingClaus/) 
 
-<h2 align="left">Student & Developer</h2>
+###Student & Developer
 ------------------------------
 
 * 🗺️  Based in Kathmandu, Nepal
