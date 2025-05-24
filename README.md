@@ -5,7 +5,7 @@
 ### Student & Developer:
 * 🗺️  Based in Kathmandu, Nepal
 * 🚀  On a journey to become a Java Developer
-* 🖥️  Check out my portfolio at [https://www.akayxn.me/](none)
+* 🖥️  Check out my portfolio at [www.akayxn.me](none)
 * 📧  Reach me at [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com)
 * 🤝  Open to collaborating on exciting projects
 
