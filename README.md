@@ -6,7 +6,7 @@
 *  Based in Kathmandu, Nepal
 *  On a journey to become a skilled Backend Developer
 *  Check out my portfolio at [www.akayxn.me](https://www.akayxn.me)
-*  each me at [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com)
+*  Reach me at [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com)
 *  Open to collaborating on cool & exciting projects
 
 
