@@ -3,24 +3,34 @@
 <img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/thumbnail/programming-simpsons-press-any-key-uwovchh4v19ky2zy.gif"/>
 
 ### Student & Developer:
-* 🗺️  Based in Kathmandu, Nepal
-* 🚀  On a journey to become a skilled Backend Developer
-* 🖥️  Check out my portfolio at [www.akayxn.me](https://www.akayxn.me)
-* 📧  Reach me at [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com)
-* 🤝  Open to collaborating on cool & exciting projects
+*  Based in Kathmandu, Nepal
+*  On a journey to become a skilled Backend Developer
+*  Check out my portfolio at [www.akayxn.me](https://www.akayxn.me)
+*  each me at [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com)
+*  Open to collaborating on cool & exciting projects
 
 
 
 ### Skills
-  <p> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="javascript" width="40" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="javascript" width="40" height="35"/>
-    
-  </p>
+<p> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring boot logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgres logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+</p>
 
 ### Socials 
 
