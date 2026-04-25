@@ -1,44 +1,41 @@
-## Hey 👋, I'm [Yujan Sharma Bajagain!](https://github.com/Akayxn/)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2)
 
-<img align="right" height="250" width="375" alt="" src="https://gifdb.com/images/thumbnail/programming-simpsons-press-any-key-uwovchh4v19ky2zy.gif"/>
+# Yujan Sharma Bajagain
 
-### Student & Developer:
-*  Based in Kathmandu, Nepal
-*  On a journey to become a skilled Backend Developer
-*  Check out my portfolio at [www.akayxn.me](https://www.akayxn.me)
-*  Reach me at [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com)
-*  Open to collaborating on cool & exciting projects
+Student · Backend Developer · Kathmandu, Nepal 🇳🇵
 
+---
 
+I'm on a journey to become a skilled backend developer.  
+I like building things that work well under the hood.
 
-### Skills
-<p> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring boot logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgres logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-</p>
+Currently focused on **Java**, **Spring Boot**, and getting better at **system design**.  
+Open to collaborating on anything interesting.
 
-### Socials 
+---
 
-<div align="left">
-  <a href="https://discordapp.com/users/434943443131957249" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="mailto:officialgamingclaus.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=EMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-</div>
+**reach me**
+
+[akayxn.me](https://www.akayxn.me) &nbsp;·&nbsp; [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com) &nbsp;·&nbsp; [discord](https://discordapp.com/users/434943443131957249)
+
+---
+
+**stack**
+
+![Java](https://img.shields.io/badge/Java-1D9E75?style=flat-square&logoColor=white&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F6E56?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a3a5c?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2d4a1e?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a2e4a?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-3a3a3a?style=flat-square&logo=linux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3a2e00?style=flat-square&logo=javascript&logoColor=white)
+
+---
+
+**stats**
+
+![streak](https://streak-stats.demolab.com?user=Akayxn&theme=dark&hide_border=true&background=00000000&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=888888&dates=555555&sideNums=cccccc&currStreakNum=ffffff)
+
+---
+
+<sub>always building · always learning</sub>
