@@ -28,6 +28,8 @@ Open to collaborating on anything interesting.
 ![MongoDB](https://img.shields.io/badge/MongoDB-2d4a1e?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1a2e4a?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-3a3a3a?style=flat-square&logo=linux&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3a2e00?style=flat-square&logo=javascript&logoColor=white)
 
 ---
