@@ -24,6 +24,7 @@ Open to collaborating on anything interesting.
 
 ![Java](https://img.shields.io/badge/Java-1D9E75?style=flat-square&logoColor=white&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F6E56?style=flat-square&logo=springboot&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a3a5c?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2d4a1e?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1a2e4a?style=flat-square&logo=docker&logoColor=white)
