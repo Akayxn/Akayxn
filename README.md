@@ -16,22 +16,22 @@ Open to collaborating on anything interesting.
 
 **reach me**
 
-[akayxn.me](https://www.akayxn.me) &nbsp;·&nbsp; [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com) &nbsp;·&nbsp; [discord](https://discordapp.com/users/434943443131957249)
+[akayxn.me](https://www.akayxn.me) &nbsp;·&nbsp;  [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com) &nbsp;·&nbsp; [discord](https://discordapp.com/users/434943443131957249)
 
 ---
 
 **stack**
 
-![Java](https://img.shields.io/badge/Java-1D9E75?style=flat-square&logoColor=white&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F6E56?style=flat-square&logo=springboot&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a3a5c?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-2d4a1e?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a2e4a?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-3a3a3a?style=flat-square&logo=linux&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3a2e00?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
