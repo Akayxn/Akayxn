@@ -16,7 +16,7 @@ Open to collaborating on anything interesting.
 
 **reach me**
 
-[akayxn.me](https://www.akayxn.me) &nbsp;·&nbsp;  [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com) &nbsp;·&nbsp; [discord](https://discordapp.com/users/434943443131957249)
+[yujanbajagain.com.np](https://www.yujanbajagain.com.np) &nbsp;·&nbsp;  [officialgamingclaus@gmail.com](mailto:officialgamingclaus@gmail.com) &nbsp;·&nbsp; [discord](https://discordapp.com/users/434943443131957249)
 
 ---
 
